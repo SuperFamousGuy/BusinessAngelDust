@@ -1,0 +1,9 @@
+Building BusinessAngelDust
+
+See doc/readme-qt.rst for instructions on building BusinessAngelDust-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BusinessAngelDust.
+
+See doc/build-*.txt for instructions on building businessangeldustd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BusinessAngelDust.
